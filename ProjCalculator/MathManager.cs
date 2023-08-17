@@ -1,3 +1,4 @@
+namespace ProjCalculator;
 public class MathManager
 {
     public static void Main(string[] args)
